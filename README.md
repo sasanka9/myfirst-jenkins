@@ -1,2 +1,2 @@
 # myfirst-jenkins
-Jenkins pipeline
+Jenkins pipeline sample
